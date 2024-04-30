@@ -1,0 +1,5 @@
+const onAddToFavorites = {
+    
+}
+
+export {onAddToFavorites};

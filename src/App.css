@@ -1,0 +1,97 @@
+.navbar-brand {
+    color: green;
+}
+
+.green{
+    color: green;
+    /* margin-top: -100vh; */
+}
+
+
+#white{
+    color: white;
+    font-size: x-small;
+}
+
+#white:hover{
+    font-weight: bold;
+    color: red;
+    font-style: italic;
+}
+
+#green{
+    color: green;
+    background-color: wheat;
+}
+
+.tof {
+    height: 400px;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.card {
+    width: 70%;
+    height: 10%;
+    margin: auto;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.377);
+    color: white;
+}
+
+.rounded-4 {
+    margin-left: 2%;
+    /* margin-top: -100vh; */
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    color: wheat;
+    opacity: 0.3;
+    font-style: italic;
+}
+
+.card-title:hover {
+    font-weight: bold;
+    box-shadow:  0.1px 0.1px 2px #ece7e7, -0.1px -0.1px 2px #ebe6e6, 
+    inset 0.91px 0.91px 2px #1b3dac, inset -0.91px -0.91px 2px #1b2fa3; 
+}
+
+.card-text:hover {
+    font-weight: bold;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card-img-top:hover {
+    box-shadow:  2.91px 2.91px 2px #ece7e7, -2.91px -2.91px 2px #ebe6e6, 
+    inset 2.91px 2.91px 2px #1b3dac, inset -2.91px -2.91px 2px #1b2fa3; 
+}
+
+.fav {
+    opacity: 0.3;
+    position: absolute;
+    z-index: 1;
+    background: none;
+    top: 1vh;
+    text-decoration: none;
+    
+}
+
+html {
+    background-color: black;
+}
+
+button:hover {
+    box-shadow:  0.91px 0.91px 2px #ece7e7, -0.91px -0.91px 2px #ebe6e6, 
+    inset 0.91px 0.91px 2px #dbdde6, inset -0.91px -0.91px 2px #c5c7d1; 
+    opacity: 1;
+}
